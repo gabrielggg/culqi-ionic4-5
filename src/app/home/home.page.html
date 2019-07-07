@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <ion-item>
+      <ion-label stacked>Monto</ion-label>
+      <ion-input type="number" [(ngModel)]="monto" placeholder="S/. 50"></ion-input>
+    </ion-item>
+  </ion-list>
+
+  <ion-button (click)="openCheckout()">Pagar</ion-button> 
+</ion-content>
+
