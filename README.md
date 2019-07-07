@@ -16,7 +16,7 @@ cd culqi-ionic4
 npm install
 ionic serve
 ```
-luego ir al browser en http://localhost:8100/home
+luego ir al browser en http://localhost:8100/home y ver la consola en las herramientas del desarrolador de chrome y podremos ver el token de culqi generado con el que podremos realizar las transacciones posteriormente.
 ## Cosas a tener en cuenta
 * Cree una cuenta en [Culqi](https://integ-panel.culqi.com/#/registro)
 * Cree un comercio.
