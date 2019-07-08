@@ -27,7 +27,7 @@
         if (Culqi.token) { 
           // Get the token ID:
           var token = Culqi.token.id;
-          alert(token);
+          alert("su token generado en los servidores de culqi es:"+token);
 
           var payment_event = new CustomEvent ('payment_event', {detail: token});
           document.dispatchEvent (payment_event);
