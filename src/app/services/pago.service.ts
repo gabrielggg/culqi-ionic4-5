@@ -21,7 +21,7 @@ export class PagoService {
       let x: any;
       console.log(token_id);
       // URL de API
-      let url = `https://urldemiserver.com`;
+      let url = `https://urldemiserver.com/?message=${token_id}`;
       
 
       /*
