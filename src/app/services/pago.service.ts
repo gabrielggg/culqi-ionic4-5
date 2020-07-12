@@ -54,7 +54,7 @@ export class PagoService {
 initCulqi () {
 // Ingresa la "Puclic Key" que te da Culqi aqui
 Culqi.publicKey = '************';
-Culqi.container = 'check';
+
 }
 
 cfgFormulario (descripcion: string, cantidad: number) {
