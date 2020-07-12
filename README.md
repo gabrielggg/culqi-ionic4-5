@@ -1,5 +1,5 @@
 # culqi-ionic4
-integrar culqi checkout con ionic 4
+integrar culqi checkout con ionic 4 o ionic 5
 (para versiones anteriores de ionic pueden ver este repositorio: https://github.com/alainm23/ionic-culqi)
 
 # Ionic Culqi
