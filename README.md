@@ -11,8 +11,8 @@ Ejemplo de una pasarela de pago usando Ionic y Culqi (solo para Péru)
 ## Construccion
 Clona el repositorio
 ```
-git clone https://github.com/gabrielggg/culqi-ionic4.git
-cd culqi-ionic4
+git clone https://github.com/gabrielggg/ionic-culqi.git
+cd ionic-culqi
 npm install
 ionic serve
 ```
