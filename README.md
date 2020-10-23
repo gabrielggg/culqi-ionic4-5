@@ -8,7 +8,7 @@ Ejemplo de una pasarela de pago usando Ionic y Culqi (solo para Péru)
 ![Ionic Culqi Screenshot](https://github.com/alainm23/ionic-culqi/raw/master/screenshot-01.png)
 
 
-## Construccion
+## Construcción
 Clona el repositorio
 ```
 git clone https://github.com/gabrielggg/ionic-culqi.git
